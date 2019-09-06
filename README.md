@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WanderWashington/VideoGamesDataAnalysis/master)
 # VideoGamesDataAnalysis
 Data Analysis about the video games history, showing the best-selling games, by genre, region or selling in the world.
 
